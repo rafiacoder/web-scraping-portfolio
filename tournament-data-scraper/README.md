@@ -39,3 +39,7 @@ tournament-data-scraper-playwright/
 │
 ├─ README.md
 └─ requirements.txt # (optional) pin dependencies for easy setup
+### Demo Video
+<video controls width="600">
+  <source src="media/tournament_demo.mp4" type="video/mp4">
+</video>
