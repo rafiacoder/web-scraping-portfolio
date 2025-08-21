@@ -41,5 +41,7 @@ tournament-data-scraper-playwright/
 └─ requirements.txt # (optional) pin dependencies for easy setup
 ### Demo Video
 <video controls width="600">
-  <source src="media/tournament_demo.mp4" type="video/mp4">
+  <source src="media/Recording 2025-08-12 155003.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
+
